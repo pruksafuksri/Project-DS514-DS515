@@ -148,7 +148,7 @@ Classification Report:
 
 ### Risk Profile Analysis
 Risk Profile Analysis (ใช้เกณฑ์ Q1/25% เพื่อความไวในการคัดกรอง)
-จำนวนผู้ป่วยกลุ่มตัวอย่าง (True Positive): 19 คน
+จำนวนผู้ป่วยกลุ่มตัวอย่าง (True Positive): 27 คน
 
 ### เกณฑ์คัดกรองความเสี่ยง (Screening Thresholds - Q1)
 หากผู้รับการตรวจมีค่า 'สูงกว่า' เกณฑ์นี้ ควรเริ่มเฝ้าระวังหรือปรับพฤติกรรม
